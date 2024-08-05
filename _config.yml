@@ -74,7 +74,7 @@ ga_domain: trade.ctn.us.kg
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Happy trade every day. <br> React Team @ Meta"
+sidebar-about-description: "Happy trading every day <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
